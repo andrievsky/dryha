@@ -1,0 +1,139 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Zhanna Dryha. All You Need Is Love</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="stylesheets/responsiveslides.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="javascripts/responsiveslides.min.js"></script>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>14.02.14</h1>
+        <h1>All You Need Is Love</h1>
+      </header>
+      <section>
+      <audio autoplay >
+        <source src="sounds/allyouneedislove.mp3" type="audio/mpeg">
+        Your browser does not support this audio format.
+      </audio>
+        <!--<img id="scream" src="images/1.jpg" alt="The Scream" width="0" height="50"> -->
+        <canvas id="myCanvas" class="stage" width=598 height=418>Your browser does not support the HTML5 canvas tag.</canvas>
+
+        <script type="text/javascript"><!--
+          window.addEventListener('load', function () {
+            // Get the canvas element.
+            var elem = document.getElementById('myCanvas');
+            if (!elem || !elem.getContext) {
+              return;
+            }
+
+            // Get the canvas 2d context.
+            var context = elem.getContext('2d');
+            if (!context || !context.getImageData || !context.putImageData || !context.drawImage) {
+              return;
+            }
+
+            // Create a new image.
+            var img = new Image();
+            img.style.visibility="hidden";
+
+            // Once it's loaded draw the image on canvas and invert the colors.
+            img.addEventListener('load', function () {
+              var x = 0, y = 0;
+
+              // Draw the image on canvas.
+              context.drawImage(this, x, y, elem.width, elem.height);
+
+              // Get the pixels.
+              var imgd = context.getImageData(x, y, this.width, this.height);
+              console.log(elem.width+"x"+elem.height)
+              //var imgd = context.getImageData(x, y, elem.width, elem.height);
+              var pix = imgd.data;
+
+              //context.putImageData(imgd, x, y);
+              //return;
+
+              for (var i = 0, n = pix.length; i < n; i += 4) {
+                //console.log(pix[i+3])
+                pix[i+3] = 0;
+              }
+              context.putImageData(imgd, x, y);
+
+              var count  = 0;
+              var tmr    = null;
+              var TOLERANCE = 180
+              var REPEAT_COUNT = 10000; // 8 mins
+              tmr = setTimeout(render, 40); // 25 fps
+
+              function render() {
+                
+                count++;
+                if(count >= REPEAT_COUNT) clearTimeout(tmr);
+                else tmr = setTimeout(render, 40);
+                for (var q=0; q < 50; q++) draw();
+                context.putImageData(imgd, x, y);
+              }
+
+              function draw(){
+                var x = Math.floor(Math.random()*elem.width)
+                var y = Math.floor(Math.random()*elem.height);
+                drawPixel(x, y)
+                drawPixel(x+1, y)
+                drawPixel(x, y+1)
+                drawPixel(x+1, y+1)
+                //if (pix[j] < TOLERANCE || pix[j+1] < TOLERANCE || pix[j+2] < TOLERANCE) pix[j+3] = 255;
+                
+              }
+
+              function drawPixel(x, y){
+                var i = (y*elem.width + x)*4;
+                if (i+3 < pix.length) pix[i+3] = 255;
+              }
+
+            }, false);
+
+            img.src = 'images/1.jpg';
+          }, false);
+        </script>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/andrievsky">andrievsky</a></p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Art</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://dryha.com" property="cc:attributionName" rel="cc:attributionURL">Zhanna Dryha</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+      </footer>
+    </div>
+	</script>
+    <!--<script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-47871671-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+          -->
+          <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47871671-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  </body>
+</html>

@@ -1,0 +1,10 @@
+/*! http://responsiveslides.com v1.54 by @viljamis */
+
+.stage {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0px 0px 0px 0px;
+  margin: 0;
+  }
