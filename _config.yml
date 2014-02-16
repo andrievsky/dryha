@@ -1,3 +1,4 @@
+url: "http://dryha.com"
 source:      .
 destination: ./_site
 plugins:     ./_plugins
