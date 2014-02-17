@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+  {% include header.html %}
   <body>
     <div class="wrapper">
       <header>
         <h1>{{ page.title }}</h1>
+        {% include navigation.html %}
       </header>
       <section>
         {% include index-slides.html %}
