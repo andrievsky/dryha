@@ -2,15 +2,13 @@
 layout: default
 title: Zhanna Dryha
 ---
-<ul class="rslides">
-<li><img src="images/1.jpg" alt=""></li>
-<li><img src="images/2.jpg" alt=""></li>
-<li><img src="images/3.jpg" alt=""></li>
-</ul>
 
 ### Happy Valentine's Day
+
 [All You Need Is Love.](./valentines-day)
+
 > Love is the strongest force the world possesses and yet it is the humblest imaginable.
+
 > ---Mahatma Gandhi
 
 ### Welcome
