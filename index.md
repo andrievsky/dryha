@@ -3,16 +3,16 @@ layout: default
 title: Zhanna Dryha
 ---
 <ul class="rslides">
-* ![alt text](images/1.jpg "Image 1")
-* ![alt text](images/2.jpg "Image 1")
-* ![alt text](images/3.jpg "Image 1")
+<li><img src="images/1.jpg" alt=""></li>
+<li><img src="images/2.jpg" alt=""></li>
+<li><img src="images/3.jpg" alt=""></li>
 </ul>
-  <h3>
-    <a name="welcome-to-github-pages" class="anchor" href="./valentines-day"><span class="octicon octicon-link"></span>All You Need Is Love.</a></h3>
-    <blockquote >
-      <p>Love is the strongest force the world possesses and yet it is the humblest imaginable.</p><p> —Mahatma Gandhi</p>
-    </blockquote>
-<h3>
+
+### Happy Valentine's Day
+[All You Need Is Love.](./valentines-day)
+> Love is the strongest force the world possesses and yet it is the humblest imaginable.
+> —Mahatma Gandhi
+
 <a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome.</h3>
 
 <p>Some define contemporary art as art produced within "our lifetime," recognizing that lifetimes and life spans vary. However, there is a recognition that this generic definition is subject to specialized limitations.[1]</p>
