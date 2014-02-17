@@ -2,15 +2,16 @@
 layout: default
 title: Zhanna Dryha
 ---
-
+<div class="section" id="section-1">
 ### Happy Valentine's Day
 
 [All You Need Is Love.](./valentines-day)
 
 > Love is the strongest force the world possesses and yet it is the humblest imaginable.
-
+>
 > ---Mahatma Gandhi
 
+<div class="section" id="section-2">
 ### Welcome
 
 Some define contemporary art as art produced within "our lifetime," recognizing that lifetimes and life spans vary. However, there is a recognition that this generic definition is subject to specialized limitations.[1]
@@ -19,6 +20,7 @@ The classification of "contemporary art" as a special type of art, rather than a
 
 Particular points that have been seen as marking a change in art styles include the end of World War II and the 1960s. There has perhaps been a lack of natural break points since the 1960s, and definitions of what constitutes "contemporary art" in the 2010s vary, and are mostly imprecise. Art from the past 20 years is very likely to be included, and definitions often include art going back to about 1970,[5] and sometimes further, especially in museum contexts, as museums which form a permanent collection of contemporary art inevitably find this ageing. Many use the formulation "Modern and Contemporary Art", which avoids this problem.[6] Smaller commercial galleries, magazines and other sources may use stricter definitions, perhaps restricting the "contemporary" to work from 2000 onwards. Artists who are still productive after a long career, and ongoing art movements, may present a particular issue; galleries and critics are often reluctant to divide their work between the contemporary and non-contemporary.
 
+<div class="section" id="section-3">
 ### Institutions
 
 The functioning of the art world is dependent on art institutions, ranging from major museums to private galleries, non-profit spaces, art schools and publishers, and the practices of individual artists, curators, collectors and philanthropists. A major division in the art world is between the for-profit and non-profit sectors, although in recent years the boundaries between for-profit private and non-profit public institutions have become increasingly blurred.
@@ -34,10 +36,12 @@ The institutions of art have been criticised for regulating what is designated a
 
 At any one time a particular place or group of artists can have a strong influence on subsequent contemporary art. For instance, The Ferus Gallery was a commercial gallery in Los Angeles and re-invigorated the Californian contemporary art scene in the late fifties and the sixties.
 
+<div class="section" id="section-4">
 ### Public attitudes
 
 Contemporary art can sometimes seem at odds with a public that does not feel that art and its institutions share its values.[12] In Britain, in the 1990s, contemporary art became a part of popular culture, with artists becoming stars, but this did not lead to a hoped-for "cultural utopia".[13] Some critics like Julian Spalding and Donald Kuspit have suggested that skepticism, even rejection, is a legitimate and reasonable response to much contemporary art.[14] Brian Ashbee in an essay called "Art Bollocks"[15] criticizes "much installation art, photography, conceptual art, video and other practices generally called post-modern" as being too dependent on verbal explanations in the form of theoretical discourse.
 
+<div class="section" id="section-5">
 ### Concerns
 
 A common concern since the early part of the 20th century has been the question of what constitutes art. In the contemporary period (1950 to now), the concept of avant-garde[16] may come into play in determining what art is taken notice of by galleries, museums, and collectors. Propaganda and Entertainment in some circumstances have been regarded as art genres during the contemporary art period.
