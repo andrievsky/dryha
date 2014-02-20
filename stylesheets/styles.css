@@ -2,9 +2,15 @@
 
 body {
   padding:50px;
+  
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
   font-weight:300;
+  /*
+  color:#777;
+  font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  */
+  color: #333;
+  -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,7 +23,10 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3 {
+  color: 0;
   line-height:1.1;
+  font-weight: normal;
+  font-size: 1.6em;
 }
 
 h1 {
@@ -181,6 +190,10 @@ footer {
   float:left;
   position:fixed;
   bottom:50px;
+
+  font-size: .8em;
+  line-height: 1.2;
+  text-transform: uppercase;
 }
 
 .social {
@@ -191,15 +204,14 @@ footer {
 }
 
 .contact {
-    font-size:16px;
-    margin-bottom: 0.8125em;
-    line-height: 1.3;
+    font-size:1.2em;
+    line-height: 1.2;
     text-transform: uppercase;
 }
 
 div.contact-wrapper p{
   padding: 0px;
-  margin: 11px;
+  margin: 0 0 0.8em 0;
 }
 
 @media print, screen and (max-width: 960px) {

@@ -50,11 +50,10 @@ Contemporary art can sometimes seem at odds with a public that does not feel tha
 ## CONTACT
 <div class="contact-wrapper">
 
-<p><a href="http://goo.gl/IvOR6F" target="_blank" class="contact">20 HRETS'KA STREET<br>Odessa, UA 65026</a></p>
+	<p><a href="http://goo.gl/IvOR6F" target="_blank" class="contact">20 HRETS'KA STREET<br>Odessa, UA 65026</a></p>
 
-<p><a href="tel:+38-093-574-7125" class="contact">+38 093 574 7125</a></p>
+	<p><a href="tel:+38-063-893-4898" class="contact">38 063 8934898</a><br>
+	<a href="mailto:zhanna@dryha.com" class="contact">ZHANNA@DRYHA.COM</a></p>
 
-<p><a href="mailto:zhanna@dryha.com" class="contact">ZHANNA@DRYHA.COM</a></p>
-
-<p><a href="https://www.facebook.com/zhanna.dryha" target="_blank"><img src="images/index/facebook-64-black.png" class="social"></a><a href="http://www.linkedin.com/" target="_blank"><img src="images/index/linkedin-64-black.png"></a><a href="https://github.com/andrievsky" target="_blank"><img src="images/index/github-64-black.png"></a></p>
 </div>
+
