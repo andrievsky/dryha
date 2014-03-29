@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: main
 title: ZHANNA DRYHA
 ---
 
-<div class="section" id="section-1"/>
+<div class="section" id="section-0"/>
+## GALLERY
+<a href="gallery/">{% include index-slides.html %}</a>
 
+<div class="section" id="section-1"/>
 ## VALENTINE’S DAY
 
 [All You Need Is Love.](./valentines-day)

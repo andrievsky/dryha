@@ -1,0 +1,242 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+/* ### Reset ### */
+
+html, body, div, span, object,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+ins {
+  text-decoration: none;
+}
+del {
+  text-decoration: line-through;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+ol li {
+  list-style-type: decimal;
+}
+
+
+/* ### Common ### */
+
+body {
+  padding:50px;
+  
+  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:300;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+}
+
+footer {
+  bottom:50px;
+  font-size: .8em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+    position:relative;
+}
+
+header.main {
+  width:270px;
+  float:left;
+  position:fixed;
+}
+
+section.main {
+  width:500px;
+  float:right;
+  padding-bottom:50px;
+}
+
+footer.main {
+  width:270px;
+  float:left;
+  position:fixed;
+}
+
+img {
+  max-width:100%;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  color: 0;
+  line-height:1.1;
+  font-weight: normal;
+  font-size: 1.6em;
+  color:#494949;
+  margin:0 0 20px;
+}
+
+h1 {
+  font-size:28px;
+}
+
+h2 {
+  color:#393939;
+}
+
+a {
+  color:#39c;
+  font-weight:400;
+  text-decoration:none;
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.6em;
+  display:block;
+}
+
+strong {
+  color:#222;
+  font-weight:700;
+}
+
+
+blockquote {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  color:#333;
+  font-size:12px;
+}
+
+pre {
+  padding:8px 15px;
+  background: #f8f8f8;  
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
+dt {
+  color:#444;
+  font-weight:700;
+}
+
+th {
+  color:#444;
+}
+
+
+
+small {
+  font-size:11px;
+}
+
+hr {
+  border:0;
+  background:#e5e5e5;
+  height:1px;
+  margin:0 0 20px;
+}
+
+a.social-icon {
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+    margin-left: -10px;
+}
+
+a.facebook-icon {
+    background-image: url(/images/index/facebook-64-black.png);
+}
+
+a.facebook-icon:hover {
+    background-image: url(/images/index/facebook-64-black.png);
+}
+
+a.linkedin-icon {
+    background-image: url(/images/index/linkedin-64-black.png);
+}
+
+a.linkedin-icon:hover {
+    background-image: url(/images/index/linkedin-64-black.png);
+}
+
+a.github-icon {
+    background-image: url(/images/index/github-64-black.png);
+}
+
+a.github-icon:hover {
+    background-image: url(/images/index/github-64-black.png);
+}
+
+.contact {
+    font-size:1.2em;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+div.contact-wrapper p{
+  padding: 0px;
+  margin: 0 0 0.8em 0;
+}
+

@@ -3,18 +3,18 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ page.title }}</title>
 
-    <link rel="stylesheet" href="{{ site.url }}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.url }}/stylesheets/clean-styles.css">
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/pygment_trac.css">
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/responsiveslides.css">
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/nav.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="{{ site.url }}/javascripts/responsiveslides.min.js"></script>
-    <script src="http://davist11.github.io/jQuery-One-Page-Nav/jquery.scrollTo.js"></script>
+    <!--[if lte IE 8]><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><![endif]-->	
     <script src="http://davist11.github.io/jQuery-One-Page-Nav/jquery.nav.js"></script>
     <script>
     $(document).ready(function() {
-        $('#nav').onePageNav(); 
+        if ($('#nav')) $('#nav').onePageNav(); 
     });
     </script>
     <!--[if lt IE 9]>
