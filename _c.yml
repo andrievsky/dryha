@@ -1,6 +1,5 @@
 safe: true
-url: "http://0.0.0.0:4000"
-image_path: "/gallery/images/"
+url: "http://192.168.0.100:4000"
 source:      .
 destination: ./_site
 plugins:     ./_plugins

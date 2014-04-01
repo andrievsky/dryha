@@ -2,7 +2,7 @@
 <html>
     {% include header.html %}
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/gallery.css">
-    <script src="{{ site.url }}/gallery/javascript/application.js"></script>
+    <script src="{{ site.url }}/javascripts/gallery.js"></script>
     <body>
         <div class="wrapper">
             <header class="gallery">
@@ -11,10 +11,10 @@
             </header>
             <section class="gallery">
                 {{ content }}
-                    <ul class="gallery-list wrapper active">
-                        {% for image in site.data.gallery %}  
+                    <ul class="gallery-list active">
+                        {% for image in page.gallery %}
                             <li>
-                                <img class="gallery-image"  src="{{site.url}}{{site.image_path}}{{image.src}}" width="100%" alt="{{ image.alt }}">
+                                <img class="gallery-image"  src="images/{{image.src}}" width="100%" alt="{{ image.alt }}">
                                 <span class="gallery-image-description">{{image.title}}. {{image.materials}}. {{image.height}}x{{image.width}}. {{image.year}}</span>
                             </li>
                         {% endfor %}
