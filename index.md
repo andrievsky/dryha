@@ -59,7 +59,9 @@ Most well-known contemporary art is exhibited by professional artists at commerc
 <div class="section" id="synopsis"/>
 ## SYNOPSIS
 
-Contemporary art can sometimes seem at odds with a public that does not feel that art and its institutions share its values. In Britain, in the 1990s, contemporary art became a part of popular culture, with artists becoming stars, but this did not lead to a hoped-for "cultural utopia". Some critics like Julian Spalding and Donald Kuspit have suggested that skepticism, even rejection, is a legitimate and reasonable response to much contemporary art. Brian Ashbee in an essay called "Art Bollocks" criticizes "much installation art, photography, conceptual art, video and other practices generally called post-modern" as being too dependent on verbal explanations in the form of theoretical discourse.
+Contemporary art can sometimes seem at odds with a public that does not feel that art and its institutions share its values. In Britain, in the 1990s, contemporary art became a part of popular culture, with artists becoming stars, but this did not lead to a hoped-for "cultural utopia". Some critics like Julian Spalding and Donald Kuspit have suggested that skepticism, even rejection, is a legitimate and reasonable response to much contemporary art. Brian Ashbee in an essay called "Art Bollocks" criticizes "much installation art, photography, conceptual art, video and other practices generally called post-modern" as being too dependent on verbal explanations in the form of theoretical discourse. 
+
+[Read Bio](./bio)
 
 <div class="section" id="contact"/>
 
