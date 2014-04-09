@@ -29,5 +29,6 @@
   height: auto;
   float: left;
   width: 100%;
+  max-width: 500px;
   border: 0;
   }

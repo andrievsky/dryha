@@ -1,5 +1,5 @@
 ---
-layout: action
+layout: news
 title: DÜSSELDORF
 nav:
 - 

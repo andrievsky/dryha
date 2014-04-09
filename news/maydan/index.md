@@ -1,5 +1,5 @@
 ---
-layout: action
+layout: news
 title: MAYDAN
 nav:
 - title: SALE PICTURES IN ODESSA

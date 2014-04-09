@@ -20,7 +20,7 @@
             </footer>
             <script>
                 $(function() {
-                    if ($(".rslides")) $(".rslides").responsiveSlides();
+                    if ($(".rslides")) $(".rslides").each(function(index, element){$(element).responsiveSlides(); console.log(element+"1234")});
                 });
             </script>
             <script>
