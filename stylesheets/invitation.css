@@ -1,0 +1,11 @@
+header.invitation {
+  width:380px;
+  float:left;
+  position:fixed;
+}
+
+section.invitation {
+  width:400px;
+  float:right;
+  padding-bottom:50px;
+}
