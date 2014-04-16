@@ -2,6 +2,8 @@
 layout: main
 title: ZHANNA DRYHA
 nav:
+- title: GALLERIES
+  section: galleries
 - title: BIO
   section: bio
 - title: MAIN EXHIBITIONS
@@ -10,34 +12,31 @@ nav:
   section: personal-exhibitions
 - title: ILLUSTRATED BOOKS
   section: illustrated-books
-- title: GALLERIES
-  section: galleries
-- title: NEWS
-  section: news
 - title: CONTACT
   section: contact
   
-fine-art-gallery-slides:
-- src: gallery/fine-art/images/1.jpg
+irish-dance-gallery-slides:
+- src: gallery/irish-dance-duesseldorf/images/IMG_6966.jpg
   alt: Image 1
-
-- src: gallery/fine-art/images/2.jpg
+- src: gallery/irish-dance-duesseldorf/images/IMG_6959.jpg
   alt: Image 2
-
-- src: gallery/fine-art/images/3.jpg
-  alt: Image 3
-
-snails-gallery-slides:
-- src: gallery/snails/images/snail-1.JPG
-  alt: Image 1
-
-- src: gallery/snails/images/snail-2.JPG
-  alt: Image 2
-
-- src: gallery/snails/images/snail-3.JPG
+- src: gallery/irish-dance-duesseldorf/images/IMG_6955.jpg
   alt: Image 3
 
 ---
+<div class="section" id="galleries"/>
+## GALLERIES
+
+### IRISH DANCE
+
+<ul class="rslides">
+    {% for slide in page.irish-dance-gallery-slides %}
+        <li>
+            <a href="gallery/irish-dance-duesseldorf/"><img src="{{ slide.src }}" alt="{{ slide.alt }}"></a>
+        </li>
+    {% endfor %}
+</ul>
+
 <div class="section" id="bio"/>
 ##BIO
 
@@ -100,43 +99,6 @@ She is a member of the National Union of Artist of Ukraine (NUAU) since the year
 * 2013 -- Illustration of Collection of poems "The Touch" by V.Demidenko
 * 2013 -- [Participation](http://www.150alice.com/project/zhanna-dryha/) in the International Project for Illustrators ["150 to Alice in Wonderland of Carroll"](http://www.150alice.com/about/)
 * 2013 - Illustration of the novel "The childhood in Vilcovo" by V. Sylantieva
-
-
-<div class="section" id="galleries"/>
-## GALLERIES
-
-### FINE ART
-
-<ul class="rslides">
-    {% for slide in page.fine-art-gallery-slides %}
-        <li>
-            <a href="gallery/fine-art/"><img src="{{ slide.src }}" alt="{{ slide.alt }}"></a>
-        </li>
-    {% endfor %}
-</ul>
-
-
-### SNAILS
-
-<ul class="rslides">
-    {% for slide in page.snails-gallery-slides %}
-        <li>
-            <a href="gallery/snails/"><img src="{{ slide.src }}" alt="{{ slide.alt }}"></a>
-        </li>
-    {% endfor %}
-</ul>
-
-
-<div class="section" id="news"/>
-## NEWS
-
-### DÜSSELDORF
-
-Some define contemporary art as art produced within "our lifetime," recognizing that lifetimes and life spans vary. However, there is a recognition that this generic definition is subject to specialized limitations. [More...](./news/duesseldorf)
-
-### MAYDAN
-
-Most well-known contemporary art is exhibited by professional artists at commercial contemporary art galleries, by private collectors, art auctions, corporations, publicly funded arts organizations, contemporary art museums or by artists themselves in artist-run spaces. Contemporary artists are supported by grants, awards and prizes as well as by direct sales of their work. Career artists train at Art school or emerge from other fields. [More...](./news/maydan)
 
 
 <div class="section" id="contact"/>
