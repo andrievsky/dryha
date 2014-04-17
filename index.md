@@ -16,11 +16,11 @@ nav:
   section: contact
   
 irish-dance-gallery-slides:
-- src: gallery/irish-dance-duesseldorf/images/IMG_6966.jpg
+- src: gallery/irish-dance/images/IMG_6966.jpg
   alt: Image 1
-- src: gallery/irish-dance-duesseldorf/images/IMG_6959.jpg
+- src: gallery/irish-dance/images/IMG_6959.jpg
   alt: Image 2
-- src: gallery/irish-dance-duesseldorf/images/IMG_6955.jpg
+- src: gallery/irish-dance/images/IMG_6955.jpg
   alt: Image 3
 
 ---
@@ -32,7 +32,7 @@ irish-dance-gallery-slides:
 <ul class="rslides">
     {% for slide in page.irish-dance-gallery-slides %}
         <li>
-            <a href="gallery/irish-dance-duesseldorf/"><img src="{{ slide.src }}" alt="{{ slide.alt }}"></a>
+            <a href="gallery/irish-dance/"><img src="{{ slide.src }}" alt="{{ slide.alt }}"></a>
         </li>
     {% endfor %}
 </ul>
