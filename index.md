@@ -16,11 +16,11 @@ nav:
   section: contact
   
 irish-dance-gallery-slides:
-- src: gallery/irish-dance/images/IMG_6966.jpg
+- src: gallery/irish-dance/preview/IMG_6966.jpg
   alt: Image 1
-- src: gallery/irish-dance/images/IMG_6959.jpg
+- src: gallery/irish-dance/preview/IMG_6959.jpg
   alt: Image 2
-- src: gallery/irish-dance/images/IMG_6955.jpg
+- src: gallery/irish-dance/preview/IMG_6955.jpg
   alt: Image 3
 
 ---
