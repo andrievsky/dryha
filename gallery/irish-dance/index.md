@@ -21,7 +21,7 @@ gallery:
   materials: Oil, Canvas
   year: 2014
 - src: IMG_6952.jpg
-  title: An error in not a defeat
+  title: An error is not a defeat
   width: 80
   height: 80
   materials: Oil, Canvas

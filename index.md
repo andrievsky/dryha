@@ -106,7 +106,7 @@ She is a member of the National Union of Artist of Ukraine (NUAU) since the year
 ## CONTACT
 <div class="contact-wrapper">
 
-	<p><a href="http://goo.gl/IvOR6F" target="_blank" class="contact">20 HRETS'KA STREET<br>Odessa, UA 65026</a></p>
+	<p><a href="http://goo.gl/nLAtys" target="_blank" class="contact">20 HRETS'KA STREET<br>Odessa, UA 65026</a></p>
 
 	<p><a href="tel:+38-063-893-4898" class="contact">38 063 8934898</a><br>
 	<a href="mailto:zhanna@dryha.com" class="contact">ZHANNA@DRYHA.COM</a></p>
