@@ -31,11 +31,7 @@ irish-dance-gallery-slides:
 ## GALLERIES
 
 ### SUPPORT 150ALICE
-  <a href="events/150alice/">
-    <!-- <img src="events/150alice/images/IMG_9414.jpg" alt="150Alice"> -->
-    <img src="http://res.cloudinary.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1432182396/urxfwcj8w29rblyxtgqf.jpg">
-    
-  </a>
+  <a href="events/150alice/"><img src="http://res.cloudinary.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1432182396/urxfwcj8w29rblyxtgqf.jpg"></a>
 
 
 ### IRISH DANCE
