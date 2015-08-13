@@ -104,7 +104,7 @@ img {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 h1, h2, h3 {
@@ -227,6 +227,22 @@ a.github-icon:hover {
 div.contact-wrapper p{
   padding: 0px;
   margin: 0 0 0.8em 0;
+}
+
+div.galleries{
+  float:left;
+  margin:20px;
+  margin-bottom:40px;
+}
+
+a.gallery{
+  color:#333;
+  font-size:18px;
+  margin:26px;
+}
+
+a.gallery:hover { 
+    color: #39c;
 }
 
 @media print, screen and (max-width: 940px) , screen and (max-height: 600px) {

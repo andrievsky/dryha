@@ -14,14 +14,8 @@ nav:
   section: illustrated-books
 - title: CONTACT
   section: contact
-  
-irish-dance-gallery-slides:
-- src: gallery/irish-dance/preview/IMG_6966.jpg
-  alt: Image 1
-- src: gallery/irish-dance/preview/IMG_6959.jpg
-  alt: Image 2
-- src: gallery/irish-dance/preview/IMG_6955.jpg
-  alt: Image 3
+- title: FRIENDS
+  section: friends
 
 ---
 
@@ -30,19 +24,18 @@ irish-dance-gallery-slides:
 <div class="section" id="galleries"/>
 ## GALLERIES
 
-### SUPPORT 150ALICE
-  <a href="events/150alice/"><img src="http://res.cloudinary.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1432182396/urxfwcj8w29rblyxtgqf.jpg"></a>
-
-
-### IRISH DANCE
-
-<ul class="rslides">
-    {% for slide in page.irish-dance-gallery-slides %}
-        <li>
-            <a href="gallery/irish-dance/"><img src="{{ slide.src }}" alt="{{ slide.alt }}"></a>
-        </li>
-    {% endfor %}
-</ul>
+<div class="galleries">
+<a href="gallery/irish-dance/" class="gallery">IRISH DANCE</a>
+<a href="gallery/abstract-art/" class="gallery">ABSTRACT ART</a>
+<a href="gallery/figures/" class="gallery">FIGURES</a>
+<a href="gallery/poplars/" class="gallery">POPLARS</a>
+<a href="gallery/fine-art/" class="gallery">FINE ART</a>
+<a href="gallery/insectiada/" class="gallery">INSECTIADA</a>
+<a href="gallery/landscape/" class="gallery">LANDSCAPE</a>
+<a href="gallery/plein-air/" class="gallery">PLEIN AIR</a>
+<a href="gallery/portrait/" class="gallery">PORTRAIT</a>
+<a href="gallery/still-life/" class="gallery">STILL LIFE</a>
+</div>
 
 <div class="section" id="bio"/>
 ##BIO
@@ -109,14 +102,12 @@ She is a member of the National Union of Artist of Ukraine (NUAU) since the year
 
 
 <div class="section" id="contact"/>
-
 ## CONTACT
 <div class="contact-wrapper">
-
-	<p><a href="http://goo.gl/nLAtys" target="_blank" class="contact">20 HRETS'KA STREET<br>Odessa, UA 65026</a></p>
-
-	<p><a href="tel:+38-063-893-4898" class="contact">38 063 8934898</a><br>
+	<p><a href="tel:+660967261972" class="contact">66 096 7261972</a><br>
 	<a href="mailto:zhanna@dryha.com" class="contact">ZHANNA@DRYHA.COM</a></p>
-
 </div>
 
+<div class="section" id="support"/>
+## FRIENDS
+  <a href="events/150alice/"><img src="http://res.cloudinary.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1432182396/urxfwcj8w29rblyxtgqf.jpg"></a>
