@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: THAI
+title: THAI (Non official link. All photos should be redone)
 gallery:
 
 - src: img-thai-1.JPG
