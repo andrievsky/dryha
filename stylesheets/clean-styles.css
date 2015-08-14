@@ -239,10 +239,12 @@ a.gallery{
   color:#333;
   font-size:18px;
   margin:26px;
+  white-space: nowrap;
 }
 
-a.gallery:hover { 
-    color: #39c;
+a.gallery:hover {
+    background-color:#39c; 
+    color: #fff;
 }
 
 @media print, screen and (max-width: 940px) , screen and (max-height: 600px) {
