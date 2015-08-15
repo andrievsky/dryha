@@ -4,200 +4,186 @@ title: PLEIN AIR
 gallery:
 
 - src: IMG_9261.jpg
-  title: Untitled 
+  title: Old city landscape
   width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  height: 90
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9296.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9315.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: The field
+  width: 70
+  height: 80
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9320.jpg
-  title: Untitled 
-  width: 50
+  title: An old tree
+  width: 40
   height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9322.jpg
-  title: Untitled 
-  width: 50
+  title: The light
+  width: 70
   height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9324.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Raps blooming
+  width: 80
+  height: 70
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9330.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Evening in the forest
+  width: 60
+  height: 70
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9334.jpg
-  title: Untitled 
-  width: 50
+  title:  Carpathian village  
+  width: 70
   height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9337.jpg
-  title: Untitled 
-  width: 50
+  title: A sunset 
+  width: 60
   height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9349.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: In the forest(2)
+  width: 60
+  height: 40
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9352.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Sunlight playing on the wall
+  width: 60
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9353.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Cherry tree in bloom
+  width: 60
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9364.jpg
-  title: Untitled 
+  title: Khust
   width: 50
   height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on cardboard
+  year: 2014
 
 - src: IMG_9365.jpg
-  title: Untitled 
+  title: Rhythm 
   width: 50
   height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on cardboard
+  year: 2014
 
 - src: IMG_9366.jpg
-  title: Untitled 
+  title: An old boat
   width: 50
   height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9376.jpg
-  title: Untitled 
+  title: Waiting for a storm
   width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9377.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Boat
+  width: 40
+  height: 50
+  media: Chalkoak,oil on canvas
+  year: 2014
 
 - src: IMG_9378.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Boat in sunset light
+  width: 40
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9379.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Vilkovo
+  width: 40
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9380.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Boat(3)
+  width: 40
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9387.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9407.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Carpathian mountains
+  width: 40
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9408.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Early evening 
+  width: 40
+  height: 40
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9409.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: A portrait of an artist (1)
+  width: 30
+  height: 30
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9412.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Pleinair (2)
+  width: 30
+  height: 30
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9415.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: A portrait of an artist (2)
+  width: 30
+  height: 30
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9417.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Plain air (3)
+  width: 40
+  height: 40
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9418.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: In the village
+  width: 40
+  height: 40
+  media: Oil on canvas
+  year: 2014
 
  
 ---

@@ -4,109 +4,95 @@ title: FIGURES
 gallery:
 
 - src: IMG_9259.jpg
-  title: Untitled 
+  title: In memory of Vincent Van Gogh
   width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  height: 100
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9273.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Polyptych Social life (piece 1/5)
+  width: 80
+  height: 80
+  media: Marker on canvas
+  year: 2014
 
 - src: IMG_9274.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Polyptych Social life (piece 2/5)
+  width: 80
+  height: 80
+  media: Marker on canvas
+  year: 2014
 
 - src: IMG_9275.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Polyptych Social life (piece 3/5)
+  width: 80
+  height: 80
+  media: Marker on canvas
+  year: 2014
 
 - src: IMG_9276.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Polyptych Social life (piece 4/5)
+  width: 80
+  height: 80
+  media: Marker on canvas
+  year: 2014
 
 - src: IMG_9277.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Polyptych Social life (piece 5/5)
+  width: 80
+  height: 80
+  media: Marker on canvas
+  year: 2014
 
 - src: IMG_9306.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9308.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Unusual  work
+  width: 80
+  height: 80
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9311.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Fata Morgana
+  width: 80
+  height: 80
+  media: Mixed media, canvas
+  year: 2014
 
 - src: IMG_9329.jpg
-  title: Untitled 
+  title: An old film
   width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  height: 70
+  media: Mixed media,cardboard 
+  year: 2014
 
 - src: IMG_9345.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9390.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Memory
+  width: 70
+  height: 50
+  media: Acrylic on canvas
+  year: 2014
 
 - src: IMG_9391.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: People
+  width: 40
+  height: 50
+  media: Mixed media, canvas
+  year: 2014
 
 - src: IMG_9392.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: People
+  width: 40
+  height: 50
+  media: Mixed media,canvas
+  year: 2014
 
 - src: IMG_9404.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: People (sketch)
+  width: 15
+  height: 25
+  media: Acrylic, canvas
+  year: 2014
 
  
 ---

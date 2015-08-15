@@ -15,7 +15,7 @@
                         {% for image in page.gallery %}
                             <li>
                                 <img class="gallery-image"  src="images/{{image.src}}" width="100%" alt="{{ image.alt }}">
-                                <span class="gallery-image-description">{{image.title}}. {{image.materials}}. {{image.height}}x{{image.width}}. {{image.year}}</span>
+                                <span class="gallery-image-description">{{image.title}} | {{image.media}} | {{image.width}}x{{image.height}} CM | {{image.year}}</span>
                             </li>
                         {% endfor %}
                     </ul>

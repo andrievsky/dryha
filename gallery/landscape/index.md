@@ -4,179 +4,102 @@ title: LANDSCAPE
 gallery:
 
 - src: IMG_9251.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Forest
+  width: 70
+  height: 100
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9257.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: A city 
+  width: 80
+  height: 80
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9281.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Near the lake
+  width: 70
+  height: 90
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9286.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: The street at night
+  width: 80
+  height: 80
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9300.jpg
-  title: Untitled 
+  title: The night
   width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  height: 70
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9301.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9303.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9307.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Odessa 
+  width: 60
+  height: 80
+  media: Collage on cardboard
+  year: 2014
 
 - src: IMG_9317.jpg
-  title: Untitled 
-  width: 50
+  title: Plain air 
+  width: 60
   height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9332.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9350.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9355.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Alley
+  width: 40
+  height: 70
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9361.jpg
-  title: Untitled 
-  width: 50
+  title: Night city
+  width: 40
   height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9367.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Collage on cardboard 
+  year: 2014
 
 - src: IMG_9369.jpg
-  title: Untitled 
+  title: Pink poplars
   width: 50
   height: 60
-  media: Oil, Canvas
-  year: 2015
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9370.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9372.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9373.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9381.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Riverside
+  width: 40
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9381_2.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9382.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9383.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
-
-- src: IMG_9384.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Polyptych "regatta" 
+  width: 80
+  height: 100
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9385.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Impression
+  width: 40
+  height: 50
+  media: Oil on canvas
+  year: 2014
 
 - src: IMG_9406.jpg
-  title: Untitled 
-  width: 50
-  height: 60
-  media: Oil, Canvas
-  year: 2015
+  title: Ukrainian boat
+  width: 15
+  height: 23
+  media: Oil on canvas
+  year: 2014
 
  
 ---
