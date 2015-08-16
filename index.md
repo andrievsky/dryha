@@ -12,8 +12,6 @@ nav:
   section: personal-exhibitions
 - title: ILLUSTRATED BOOKS
   section: illustrated-books
-- title: CONTACT
-  section: contact
 - title: FRIENDS
   section: friends
 
@@ -100,13 +98,6 @@ She is a member of the National Union of Artist of Ukraine (NUAU) since the year
 * 2013 -- [Participation](http://www.150alice.com/project/zhanna-dryha/) in the International Project for Illustrators ["150 to Alice in Wonderland of Carroll"](http://www.150alice.com/about/)
 * 2013 - Illustration of the novel "The childhood in Vilcovo" by V. Sylantieva
 
-
-<div class="section" id="contact"/>
-## CONTACT
-<div class="contact-wrapper">
-	<p><a href="tel:+660967261972" class="contact">66 096 7261972</a><br>
-	<a href="mailto:zhanna@dryha.com" class="contact">ZHANNA@DRYHA.COM</a></p>
-</div>
 
 <div class="section" id="support"/>
 ## FRIENDS

@@ -186,10 +186,10 @@ hr {
 
 p.social-icons {
     display: flex;
-    align-items:center;
 }
 
 a.social-icon {
+    float: center;
     width: 64px;
     height: 64px;
 }
@@ -210,12 +210,41 @@ a.linkedin-icon:hover {
     background-image: url(/images/index/linkedin-64-black.png);
 }
 
-a.github-icon {
-    background-image: url(/images/index/github-64-black.png);
+a.skype-icon {
+    background-image: url(/images/index/skype.svg);
+    background-repeat: no-repeat;
+    background-position: center
 }
 
-a.github-icon:hover {
-    background-image: url(/images/index/github-64-black.png);
+div.social-link{
+  height: 32px;
+  text-align: center;
+}
+
+span.social-link{
+  padding-left: 10px;
+  float: left;
+  font-size: 1.4em;
+  text-transform: none;
+  line-height: 32px;
+}
+
+div.wechat-icon{
+  float: left;
+  height: 32px;
+  width: 32px;
+  background-image: url(/images/index/wechat-64-black.png);
+  background-repeat: no-repeat;
+}
+
+
+div.phone-icon{
+  float: left;
+  height: 32px;
+  width: 32px;
+  background-image: url(/images/index/phone-64-black.png);
+  background-repeat: no-repeat;
+  background-position: left; 
 }
 
 .contact {
