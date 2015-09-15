@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    {% include header.html %}
+    <link rel="stylesheet" href="{{ site.url }}/stylesheets/contact.css">
+    <body>
+        <div class="wrapper">
+            <header class="gallery">
+                <h1><a href="{{site.url}}">ZHANNA DRYHA</a></h1>
+                <h2>{{ page.title }}</h2>
+            </header>
+            <section class="contact-box">
+                <img class="img" src="{{ page.image }}">
+                <div class="contact-content">
+                    {{ content }}
+                </div>
+            </section>
+            {% include analytics.html %}
+        </div>
+    </body>
+</html>

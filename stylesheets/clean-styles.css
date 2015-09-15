@@ -185,39 +185,49 @@ hr {
 }
 
 p.social-icons {
-    display: flex;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center
 }
 
 a.social-icon {
-    float: center;
-    width: 64px;
-    height: 64px;
+    /*float: center;*/
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin: 0 16px;
 }
 
 a.facebook-icon {
-    background-image: url(/images/index/facebook-64-black.png);
+    background-image: url(/images/icons/facebook-32.png);
 }
 
 a.facebook-icon:hover {
-    background-image: url(/images/index/facebook-64-black.png);
+    background-image: url(/images/icons/facebook-32.png);
 }
 
 a.linkedin-icon {
-    background-image: url(/images/index/linkedin-64-black.png);
+    background-image: url(/images/icons/linkedin-32.png);
 }
 
 a.linkedin-icon:hover {
-    background-image: url(/images/index/linkedin-64-black.png);
+    background-image: url(/images/icons/linkedin-32.png);
 }
 
 a.skype-icon {
-    background-image: url(/images/index/skype.svg);
+    background-image: url(/images/icons/skype.svg);
     background-repeat: no-repeat;
     background-position: center
 }
 
 div.social-link{
+  margin: auto;
+  display: block;
   height: 32px;
+  width: 160px;
   text-align: center;
 }
 
@@ -229,12 +239,8 @@ span.social-link{
   line-height: 32px;
 }
 
-div.wechat-icon{
-  float: left;
-  height: 32px;
-  width: 32px;
-  background-image: url(/images/index/wechat-64-black.png);
-  background-repeat: no-repeat;
+a.wechat-icon {
+    background-image: url(/images/icons/wechat-32.png);
 }
 
 
@@ -242,7 +248,7 @@ div.phone-icon{
   float: left;
   height: 32px;
   width: 32px;
-  background-image: url(/images/index/phone-64-black.png);
+  background-image: url(/images/icons/phone-32.png);
   background-repeat: no-repeat;
   background-position: left; 
 }
