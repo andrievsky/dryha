@@ -84,11 +84,11 @@ She is a member of the National Union of Artist of Ukraine (NUAU) since the year
 #### 2014
 * Art-project **Insectiada** at [Tea Factory](https://www.facebook.com/Experimental.center.of.contemporary.art), Odessa, Ukraine
 #### 2013 
-* **Alter Ego** exhibited at the municipal art-gallery “Apartment 10”, Odessa, Ukraine
+* **Alter Ego** exhibited at the municipal art-gallery Apartment 10, Odessa, Ukraine
 * **The life of Poplars** exhibited at the Odessa Municipal Museum of the personal collection of A.V. Bleshunov, Odessa, Ukraine
 * **Ars Longa** exhibited at the art-gallery of the National Union of Artist of Ukraine, Odessa, Ukraine
 #### 2012
-* **Following the Sun** exhibited at the Art-gallery “Sady Pobedy”( Gardens of Glory) Odessa, Ukraine
+* **Following the Sun** exhibited at the Art-gallery Sady Pobedy(Gardens of Glory) Odessa, Ukraine
 * **Art and literature** exhibited during the International Conference on literary criticism in the Odessa I.I. Mechnikov National University, Odessa, Ukraine
 * **In the fracture of time** exhibited at the Municipal art-gallery of Yzhne, Yzhne, Ukraine
 * **Once in March** exhibited at the International center of the Bulgarian culture, Odessa, Ukraine
