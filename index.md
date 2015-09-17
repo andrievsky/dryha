@@ -87,6 +87,7 @@ She is a member of the National Union of Artist of Ukraine (NUAU) since the year
 
 <div class="section" id="solo-exhibitions"/>
 ## SOLO EXHIBITIONS
+
 #### 2014
 * Art-project **Insectiada** at [Tea Factory](https://www.facebook.com/Experimental.center.of.contemporary.art), Odessa, Ukraine
 
