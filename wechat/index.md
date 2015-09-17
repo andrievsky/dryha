@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: WeChat
-image: http://tips.wechat.com/wechatportal/img/qrcode.png
+image: wechat-qrcode.png
 ---
 Scan QR Code
 #ZhannaDryha

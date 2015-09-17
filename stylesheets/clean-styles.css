@@ -138,8 +138,16 @@ a small {
 }
 
 strong {
-  color:#222;
-  font-weight:700;
+  /*color:#969696;
+  font-weight: bold;color:#39c;
+  text-decoration-style: dotted;
+  -webkit-text-decoration: underline dotted;
+  -moz-text-decoration-style: dotted;
+  text-decoration-color: #E18728;
+  text-decoration: underline dotted;
+  */
+  background-image: url(/images/underline-back.png);
+  
 }
 
 
