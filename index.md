@@ -49,7 +49,7 @@ She is a member of the National Union of Artist of Ukraine (NUAU) since the year
 ## MAIN EXHIBITIONS
 
 #### 2015
-* International workshop & exhibition **Andaman Art Festival 2015**, Krabi, Thailand 
+* International workshop and exhibition **Andaman Art Festival 2015**, Krabi, Thailand 
 #### 2014
 * Exhibition to the 200th anniversary of **Taras Shevchenko**, Odessa, Ukraine
 * National Exhibition **Maydan**, Kyiv, Ukraine
