@@ -1,4 +1,4 @@
-dryha
+http://dryha.com
 =====
 
-Zhanna Dryha. The Journey Is the Reward
+The page of international artist Zhanna Dryha. All sources available in gh-pages brunch.
