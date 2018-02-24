@@ -1,4 +1,6 @@
-Zhanna Dryha website
+Zhanna Dryha Landing Page
 =====
-The static website hosted on GitHub with Jekyll under the hud.
-The site is outdated and with be updated/reengineered asap
+
+Many thanks to GitHub, Hugo and One Page Love.
+
+The very first page could be found in gh-pages branch.
