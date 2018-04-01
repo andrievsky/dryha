@@ -17,7 +17,6 @@ disableKinds = ["blog", "taxonomy", "taxonomyTerm"] # This theme does not curren
     description = "Professional Artist."
     logoBig = "/images/zhanna_bayern-2017_circle.jpg"
     logoSmall = "/images/zhanna_bayern-2017_circle.jpg"
-    favicon = "favicon.ico"
     opengraphImage = "/images/zhanna_bayern-2017_circle.jpg"
     linkedin = "dryha"
     facebook = "https://www.facebook.com/zhanna.dryha"
