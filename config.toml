@@ -1,78 +1,41 @@
-baseURL = "http://dryha.com/"
-languageCode = "en-us"
-title = "Zhanna Dryha"
-theme = "hugo-split-theme"
-disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS"]
 publishDir = "docs"
-
-# Enter your tracking code to enable Google Analytics
+favicon = "favicon.png"
+title = "Zhanna Dryha"
+baseURL = "http://dryha.com/"
+tags = ["portfolio", "digital art", "traditional art"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
 googleAnalytics = "UA-47871671-1"
+disqusShortname = "zhanna dryha"
+disableKinds = ["blog", "taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
-[params]
+[Params]
+    tagline = "Zhanna Dryha"
+    author = "Zhanna Dryha"
+    description = "Professional Artist."
+    logoBig = "/images/zhanna_bayern-2017_circle.jpg"
+    logoSmall = "/images/zhanna_bayern-2017_circle.jpg"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/zhanna_bayern-2017_circle.jpg"
+    linkedin = "dryha"
+    facebook = "https://www.facebook.com/zhanna.dryha"
+    email = "zhanna@dryha.com"
+    googleTagManger = ""
+    highlightJS = true
+    copyright = true
+    credit = false
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
 
-  # Metadata for search engines and social sharing
-  name = "Zhanna Dryha"
-  description = "Professional Artist."
-  shareImage = "images/zhanna_bayern-2017.jpg"
-  twitterHandle = "dryha"
-
-  # Favicon
-  favicon = "favicon.png"
-
-  # Copyright
-  copyright = "&copy;2018 Zhanna Dryha"
-
-  # Section - Content
-  [params.content]
-    name = "Zhanna Dryha"
-    tagline = "Professional Artist."
-    bio = "Zhanna is red-haired, freckled, unconventional and superhumanly strong – able to lift her horse one-handed. She is playful and unpredictable. She is the daughter of a buccaneer captain and has adventure stories to tell about that too."
-
-  # Section - Visual
-  [params.visual]
-
-    # Image
-    [params.visual.image]
-      enable = true
-      file = "images/zhanna_bayern-2017.jpg"
-      position = "center center"
-
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
-
-  # Links
-  #
-  # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "Portfolio"
-
-      [[params.links.list1.link]]
-        text = "Fine Art (1k+ works)"
-        url = "http://dryha.artmoi.me/collections/"
-
-      [[params.links.list1.link]]
-        text = "Digital Art"
-        url = "https://www.behance.net/ZhannaDryha"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Upstream"
-        url = "https://www.facebook.com/zhanna.dryha"
-
-      [[params.links.list2.link]]
-        text = "Life and Travel"
-        url = "https://www.facebook.com/thedoorintosummer/"
-
-  # The original template is released under the Creative Commons Attribution 3.0 License.
-  # Please keep the original attribution link when using for your own project.
-  # If you'd like to use the template without the attribution, you can check out
-  # the license option via the template author's website: https://onepagelove.com/split
+[[menu.main]]
+    name = "Work"
+    url  = "/#work"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 2
