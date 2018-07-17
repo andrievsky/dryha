@@ -28,7 +28,7 @@ disableKinds = ["blog", "taxonomy", "taxonomyTerm"] # This theme does not curren
     customCSS = false
     cacheBustCSS = false
     cacheBustJS = false
-    ajaxFormspree = true
+    ajaxFormspree = false
 
 [[menu.main]]
     name = "Work"

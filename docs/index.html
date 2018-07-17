@@ -62,13 +62,16 @@
   
     
 <script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-47871671-1', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-47871671-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
   
@@ -163,10 +166,10 @@ ga('send', 'pageview');
                  col-md-6
                     
                 " style="background-color:#F7F7F7">
-                <a href="https://www.behance.net/ZhannaDryha">
+                <a href="https://www.artstation.com/zhannadryha">
                     <img src="http://dryha.com/images/digital-art.png" alt="The collection of Digital Art on Behance">
                 </a>
-                    <a href="https://www.behance.net/ZhannaDryha">
+                    <a href="https://www.artstation.com/zhannadryha">
                     <div class="row middle-xs center-xs overlay">
                         <div class="col-xs-12">
                             <h2>Digital Art</h2>
@@ -242,11 +245,6 @@ ga('send', 'pageview');
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 
   <script src="http://dryha.com/scripts/index.min.js" type="text/javascript"></script>
-  
-    <script>
-      $("#form-contact").addEventListener("submit",function(e){e.preventDefault();var s=$("input[name=name]").value,t=$("input[name=email").value,i=$("input[name=_subject").value,a=$("textarea[name=message]").value,n=new XMLHttpRequest,l={name:s,_replyto:t,email:t,_subject:i,message:a};n.open("POST","https://formspree.io/zhanna@dryha.com",!0),n.setRequestHeader("Content-Type","application/json; charset=UTF-8"),n.onreadystatechange=function(){function e(){t.style.visibility="hidden",t.classList.add("hide"),t.classList.remove("show"),s.style.visibility="visible",s.classList.add("show"),s.classList.remove("hide")}if(4==n.readyState&&200==n.status){$("#form-contact").reset();var s=$("#form-submit"),t=$("#form-thankyou");!function(){s.style.visibility="hidden",s.classList.add("hide"),s.classList.remove("show"),t.style.visibility="visible",t.classList.add("show"),t.classList.remove("hide"),setTimeout(e,6e3)}()}},n.send(JSON.stringify(l))});
-
-    </script>
   
 
 

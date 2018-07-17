@@ -4,7 +4,7 @@ title = "Digital Art"
 image = "digital-art.png"
 alt = "The collection of Digital Art on Behance"
 color = "#F7F7F7"
-link1 = "https://www.behance.net/ZhannaDryha"
+link1 = "https://www.artstation.com/zhannadryha"
 link2 = ""
 
 +++
