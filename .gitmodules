@@ -1,6 +1,0 @@
-[submodule "themes/hugo-split-theme"]
-	path = themes/hugo-split-theme
-	url = https://github.com/christianmendoza/hugo-split-theme
-[submodule "themes/osprey"]
-	path = themes/osprey
-	url = https://github.com/andrievsky/osprey.git
