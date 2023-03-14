@@ -61,23 +61,41 @@
       height: 100%;
       background-image: linear-gradient(to bottom, rgba(204,204,204,0.3) 0%, rgba(204,204,204,0.3) 100%);
     }
+    .background-image-6 {
+      background-image: url("images/DSCF0194.jpg");
+    }
+    .background-image-7 {
+      background-image: url("images/DSCF0202.jpg");
+    }
+    .background-image-8 {
+      background-image: url("images/DSCF0207.jpg");
+    }
+    .background-image-9 {
+      background-image: url("images/DSCF0205.jpg");
+    }
     .background-image-1 {
-      background-image: url("images/DSCF4486.jpg");
+      background-image: url("images/DSCF0209.jpg");
     }
     .background-image-2 {
-      background-image: url("images/DSCF4482.jpg");
+      background-image: url("images/DSCF0212.jpg");
     }
     .background-image-3 {
-      background-image: url("images/DSCF4484.jpg");
+      background-image: url("images/DSCF0218.jpg");
+    }
+    .background-image-4 {
+      background-image: url("images/DSCF0220.jpg");
+    }
+    .background-image-5 {
+      background-image: url("images/DSCF0223.jpg");
     }
 
     body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background: #e5e5e5;
-}
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #e5e5e5;
+    }
 
 .badge {
   position: fixed;
@@ -162,6 +180,24 @@
       <li class="splide__slide">
         <div class="background background-image-3 "></div>
       </li>
+      <li class="splide__slide">
+        <div class="background background-image-4 "></div>
+      </li>
+      <li class="splide__slide">
+        <div class="background background-image-5 "></div>
+      </li>
+      <li class="splide__slide">
+        <div class="background background-image-6 "></div>
+      </li>
+      <li class="splide__slide">
+        <div class="background background-image-7 "></div>
+      </li>
+      <li class="splide__slide">
+        <div class="background background-image-8 "></div>
+      </li>
+      <li class="splide__slide">
+        <div class="background background-image-9 "></div>
+      </li>
 		</ul>
   </div>
 </section>
@@ -181,7 +217,9 @@
 
 <script>
   Splide.defaults = {
-    type   : 'loop',
+    type   : 'fade',
+    rewind: true,
+    speed: 3000,
     width : '100%',
     arrows : false,
     autoplay : true,
